@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco.agjunior2\\Logica\\CalculoCPF\\CalculoCPF.csproj",
+      "projectUniqueName": "C:\\Users\\marco.agjunior2\\logica\\CalculoCPF\\CalculoCPF.csproj",
       "projectName": "CalculoCPF",
-      "projectPath": "C:\\Users\\marco.agjunior2\\Logica\\CalculoCPF\\CalculoCPF.csproj",
+      "projectPath": "C:\\Users\\marco.agjunior2\\logica\\CalculoCPF\\CalculoCPF.csproj",
       "packagesPath": "C:\\Users\\marco.agjunior2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco.agjunior2\\Logica\\CalculoCPF\\obj\\",
+      "outputPath": "C:\\Users\\marco.agjunior2\\logica\\CalculoCPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
